@@ -8,3 +8,6 @@ console.log("user1 hot fix develop");
 
 // User2 hot-fix develop
 console.log("user 2 hot fix");
+
+// Feature user2-2
+console.log("user2-2");
