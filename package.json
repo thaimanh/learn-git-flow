@@ -1,0 +1,8 @@
+{
+  "name": "user1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thaimanh/learn-git-flow.git",
+  "author": "manhtk <manhtk@vnext.com.vn>",
+  "license": "MIT"
+}
