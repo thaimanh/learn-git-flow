@@ -11,3 +11,6 @@ console.log("user1 hot fix develop");
 console.log("continue commit")
 // Feature user2-1
 console.log("continue commit 2")
+
+// User2 hot-fix develop
+console.log("user 2 hot fix");
