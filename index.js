@@ -8,9 +8,11 @@ console.log("user2-1");
 // User1 hot-fix develop
 console.log("user1 hot fix develop");
 // Feature user2-1
-console.log("continue commit")
+console.log("continue commit");
 // Feature user2-1
-console.log("continue commit 2")
+console.log("continue commit 2");
 
 // User2 hot-fix develop
 console.log("user 2 hot fix");
+// Feature user2-1
+console.log("continue commit");
