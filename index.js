@@ -7,4 +7,4 @@ console.log("user1-1");
 console.log("user1 hot fix develop");
 
 // User2 hot-fix develop
-console.log("user 2 hot fix");
+console.log("user 2 hot fix 2");
