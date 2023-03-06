@@ -7,3 +7,5 @@ console.log("user1-1");
 console.log("user2-1");
 // User1 hot-fix develop
 console.log("user1 hot fix develop");
+// Feature user2-1
+console.log("continue commit")
